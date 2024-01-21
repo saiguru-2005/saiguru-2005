@@ -1,5 +1,8 @@
+💫 About Me:
+
 - 👋 Hi, I’m @saiguru-2005
 - 👀 I’m interested in new technology and space technology
+- 👯 I ❤️ contributing to open source
 - 🌱 I’m currently learning python,machine learning,Data science
 - 🤝 I’m looking for help with referrals
 - 📫 How to reach me
