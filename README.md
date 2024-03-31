@@ -1,7 +1,7 @@
 💫 About Me:
 
 - 👋 Hi, I’m @saiguru-2005
-- 👀 I’m interested in new technology and space technology
+- 👀 I’m interested in emerging technologies and space technology
 - 👯 I ❤️ contributing to open source
 - 🌱 I’m currently learning python,machine learning,Data science, Deep learning
 - 🤝 I’m looking for help with referrals
