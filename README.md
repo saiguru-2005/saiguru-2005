@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiguru-2005&label=Profile%20views&color=0e75b6&style=flat" alt="saiguru-2005" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiguru-2005" alt="saiguru-2005" /></a> </p>
-
 - 🌱 I’m currently learning **DSA , Advanced Deep Learning**
 
 - 👯 I’m looking to collaborate on **AIML & ASTRONOMY PROJECTS**
